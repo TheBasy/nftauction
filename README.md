@@ -35,7 +35,7 @@
 
    在 [./contracts](./public-offering/src/utils) 目录下按顺序运行：`truffle compile` 和 `truffle migrations`，将生成智能合约的地址（即下图的contract address复制到[contracts.ts](./public-offering/src/utils/contracts.ts)文件中的contractAddr变量，使得程序可以正确调用合约方法。
 
-   ![p1](.\img\p1.jpg)
+   <img src=".\img\p1.jpg" alt="p1" style="zoom:30%;" />
 
 5. 安装依赖包
 
@@ -52,11 +52,11 @@
 
 主页面
 
-<img src=".\p2.jpg" alt="p2" style="zoom:30%;" />
+<img src=".\img\p2.jpg" alt="p2" style="zoom:30%;" />
 
 铸造NFT
 
-<img src="D:\NFTAuction\img\p3.jpg" alt="p3" style="zoom:30%;" />
+<img src=".\img\p3.jpg" alt="p3" style="zoom:30%;" />
 
 开放拍卖
 
@@ -86,7 +86,7 @@
 
 <img src=".\img\p11.jpg" alt="p11" style="zoom: 30%;" />
 
-<img src=".\p12.jpg" alt="p12" style="zoom:50%;" />
+<img src=".\img\p12.jpg" alt="p12" style="zoom:50%;" />
 
 
 

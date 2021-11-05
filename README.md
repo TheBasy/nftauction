@@ -37,7 +37,7 @@ https://www.bilibili.com/video/BV1Lf4y1u7qC/。
 
    在 [./contracts](./public-offering/src/utils) 目录下按顺序运行：`truffle compile` 和 `truffle migrations`，将生成智能合约的地址（即下图的contract address复制到[contracts.ts](./public-offering/src/utils/contracts.ts)文件中的contractAddr变量，使得程序可以正确调用合约方法。
 
-   ![p1](.\img\p1.jpg)
+   ![](.\img\p1.jpg)
 
 5. 安装依赖包
 

@@ -106,7 +106,7 @@ class CardMyNFT extends Component<IProps> {
             let sp = nft.sp;
             let temp =[]
             for (let i=0;i<nft.numown;i++){
-                let a=contract.methods.own(nft.id,0).call();
+                let a=contract.methods.own(nft.id,i).call();
 
                 if (a) {
                     a.then(function (result) {

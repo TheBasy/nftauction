@@ -37,7 +37,7 @@ https://www.bilibili.com/video/BV1Lf4y1u7qC/。
 
    在 [./contracts](./public-offering/src/utils) 目录下按顺序运行：`truffle compile` 和 `truffle migrations`，将生成智能合约的地址（即下图的contract address复制到[contracts.ts](./public-offering/src/utils/contracts.ts)文件中的contractAddr变量，使得程序可以正确调用合约方法。
 
-   ![p1](D:\NFTAuction\img\p1.jpg)
+   ![p1](.\img\p1.jpg)
 
 5. 安装依赖包
 
@@ -54,41 +54,41 @@ https://www.bilibili.com/video/BV1Lf4y1u7qC/。
 
 主页面
 
-<img src="D:\NFTAuction\img\p2.jpg" alt="p2" style="zoom:30%;" />
+<img src=".\img\p2.jpg" alt="p2" style="zoom:30%;" />
 
 铸造NFT
 
-<img src="D:\NFTAuction\img\p3.jpg" alt="p3" style="zoom:30%;" />
+<img src=".\img\p3.jpg" alt="p3" style="zoom:30%;" />
 
 开放拍卖
 
 我的NFT中将会放置
 
-<img src="D:\NFTAuction\img\p4.jpg" alt="p4" style="zoom:30%;" />
+<img src=".\img\p4.jpg" alt="p4" style="zoom:30%;" />
 
-<img src="D:\NFTAuction\img\p5.jpg" alt="p5" style="zoom:30%;" />
+<img src=".\img\p5.jpg" alt="p5" style="zoom:30%;" />
 
 切换账号
 
-<img src="D:\NFTAuction\img\p6.jpg" alt="p6" style="zoom:50%;" />
+<img src=".\img\p6.jpg" alt="p6" style="zoom:50%;" />
 
 竞拍
 
-<img src="D:\NFTAuction\img\p7.jpg" alt="p7" style="zoom:30%;" />
+<img src=".\img\p7.jpg" alt="p7" style="zoom:30%;" />
 
 提交后在我的拍卖中有显示
 
-<img src="D:\NFTAuction\img\p8.jpg" alt="p8" style="zoom:30%;" />
+<img src=".\img\p8.jpg" alt="p8" style="zoom:30%;" />
 
 截至时间到，支付订单
 
-<img src="D:\NFTAuction\img\p10.jpg" alt="p10" style="zoom: 30%;" />
+<img src=".\img\p10.jpg" alt="p10" style="zoom: 30%;" />
 
 完成NFT所有权的转移和以太币的转移
 
-<img src="D:\NFTAuction\img\p11.jpg" alt="p11" style="zoom: 30%;" />
+<img src=".\img\p11.jpg" alt="p11" style="zoom: 30%;" />
 
-<img src="D:\NFTAuction\img\p12.jpg" alt="p12" style="zoom:50%;" />
+<img src=".\img\p12.jpg" alt="p12" style="zoom:50%;" />
 
 
 
@@ -102,11 +102,11 @@ https://www.bilibili.com/video/BV1Lf4y1u7qC/。
 
 添加NFT属性
 
-<img src="D:\NFTAuction\img\p15.jpg" style="zoom:30%;" />
+<img src=".\img\p15.jpg" style="zoom:30%;" />
 
 添加查看曾拥有者的信息，会以弹窗的形式按顺序弹出第0任（即NFT铸造者）到现在的所有拥有者
 
-<img src="D:\NFTAuction\img\p16.jpg" style="zoom:30%;" />
+<img src=".\img\p16.jpg" style="zoom:30%;" />
 
 
 
